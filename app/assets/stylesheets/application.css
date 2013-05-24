@@ -10,4 +10,7 @@
  *
  *= require_self
  *= require_tree .
+ *= require bootstrap/bootstrap
+ *= require bootstrap/bootstrap_responsive
+ *= require bootstrap/bootstrap_overrides
  */
