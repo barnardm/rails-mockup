@@ -1,8 +1,8 @@
-# Ruby on Rails 4rc1 and Bootstrap 3.0-wip Mockup
+## Ruby on Rails 4rc1 and Bootstrap 3.0 Mockup
 
 
 This is a simple Ruby on Rails app to mockup a site using bootstrap 3.0-wip.  
-Just some basic routing, a few controllers, and some view files.
+Just some basic routing, a few controllers, some view files, and the compiled bootstrap assets.  
 
 
 
