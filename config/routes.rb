@@ -1,12 +1,12 @@
 RailsMockup::Application.routes.draw do
 
-  get "ticket/index"
   get "about/index"
   get "blog/index"
   get "codex/index"
   get "contact/index"
   get "home/index"
   get "support/index"
+  get "ticket/index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -28,6 +28,7 @@ RailsMockup::Application.routes.draw do
   resources :contact
   resources :home
   resources :support
+  resources :ticket
 
   # Example resource route with options:
   #   resources :products do
