@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Support::TicketController do
+describe CodexController do
 
   describe "GET 'index'" do
     it "returns http success" do

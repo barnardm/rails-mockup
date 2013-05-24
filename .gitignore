@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+*.gem
+.DS_Store
+*.swp
+*.swo
+*~
